@@ -1,0 +1,13 @@
+Const PI = 3.14; 
+
+
+1. Difference between Var / Let. Var is able to be redeclared whenever, var is also function scoped. Let cannot be redeclared. Let is also only for block scope. 
+
+
+2. Difference between Var / Const. Same as between Var and Let. Const is also block scope. 
+
+
+3. Difference between Let / Const. Let can be Reassigned, Const cannot be. 
+
+
+4. Hoisting happens when you use Var. If var declares a variable that variable gets placed at the top to be referenced at whatever point in the script."
